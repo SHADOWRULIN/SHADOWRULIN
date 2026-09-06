@@ -7,6 +7,9 @@ Hi — I’m Muhammad Fahaz Khan (GitHub: SHADOWRULIN). I build practical softwa
 - 💬 Ask me about: React frontends, Python backends (Flask/FastAPI), Flutter apps, and end-to-end problem solving.
 - ⚡ Fun fact: I treat learning like continuous training always iterating and adapting to new tech.
 
+## 🏆 Open Source & Recognitions
+- **[UnvibeCode](https://github.com/FinanceFlash/unvibecode) (Alphashots.ai)** — Ranked **Top 10 (9th of 100+)** in the 2026 Engineering Challenge[cite: 1]. Audited codebase architecture, identified state bugs, and reported workflow edge cases and security risks in [Issue #137](https://github.com/FinanceFlash/unvibecode/issues/137)[cite: 1]. Received formal recommendation from the founding team.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahaz-khan-85b805293/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahazkhan50@gmail.com)
