@@ -8,7 +8,7 @@ Hi — I’m Muhammad Fahaz Khan (GitHub: SHADOWRULIN). I build practical softwa
 - ⚡ Fun fact: I treat learning like continuous training always iterating and adapting to new tech.
 
 ## 🏆 Open Source & Recognitions
-- **[UnvibeCode](https://github.com/FinanceFlash/unvibecode) (Alphashots.ai)** — Ranked **Top 10 (9th of 100+)** in the 2026 Engineering Challenge[cite: 1]. Audited codebase architecture, identified state bugs, and reported workflow edge cases and security risks in [Issue #137](https://github.com/FinanceFlash/unvibecode/issues/137)[cite: 1]. Received formal recommendation from the founding team.
+- **[UnvibeCode](https://github.com/FinanceFlash/unvibecode) (Alphashots.ai)** — Ranked **Top 10 (Rank 9 of 100+)** in the 2026 Engineering Challenge. Audited codebase architecture and reported workflow edge cases in [Issue #137](https://github.com/FinanceFlash/unvibecode/issues/137). Verified under Credential [UVC26-TOP10-009](https://github.com/FinanceFlash/unvibecode/blob/main/docs/OSS_Contributor_Credentials/UVC26-TOP10-009.md).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahaz-khan-85b805293/) 
